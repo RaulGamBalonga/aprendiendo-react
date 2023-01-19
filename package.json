@@ -1,7 +1,7 @@
 {
   "name": "aprendiendo-react",
   "version": "1.0.0",
-  "description": "",
+  "description": "Curso para aprender **React** basado en proyectos.\r **[Todos los miércoles a las 18PM en Twitch](https://twitch.tv/midudev)**",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
